@@ -75,4 +75,4 @@ http://localhost:3000
 
 ## Author
 
-Rushikesh Sawase
+Khushi Kalokhe
